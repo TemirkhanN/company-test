@@ -23,4 +23,4 @@ I'll likely elaborate more in future updates, yet for now it's a short list for 
 6. Do you overtime? How often? 
 7. Do you perform engineering duties? Why? When did you start doing that? 
 8. Do you perform sort of knowledge sharing? Workshops/Meetups/Blogs
-9. 
+9. Do you have R&D department of any sort? How does it operate?
